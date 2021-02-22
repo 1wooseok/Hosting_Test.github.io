@@ -1,0 +1,12 @@
+#main {
+    background-color: white;
+    text-align: center;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+.none {
+    display: none;
+}
+.showing {
+    display: block;
+}
